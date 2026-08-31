@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 080
+# 🦁 XXD Panel 080｜Organic Gouache Field
 
 ### Rebuild the photograph's emotional core as botanical-colour digital gouache and poetic whitespace
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 080
+# 🦁 XXD Panel 080｜有机水粉场
 
 ### 把照片的核心情绪与隐喻，重构成植物色数字水粉与诗意留白
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 080
+# 🦁 XXD Panel 080｜有機的グアッシュの場
 
 ### 写真の感情と比喩を植物色のデジタルガッシュと余白へ
 

@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 080 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 080 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-Edge-tracing filters mechanically copy everything, while complete watercolour scenes often fill the background until subject, space, and editorial rhythm all become heavy.
+Ordinary commercial illustration often turns a photograph into a polished template or fills the canvas with plants, symbols, and background, without truly reading the photograph's emotion and latent metaphor.
 
-**Panel 080** records only the structures, spaces, actions, and on-site relationships worth remembering. Long perspective lines, angular contours, and geometric axes build a rational scaffold; organic curves, searching lines, breaks, and slight misregistration preserve the hand. A few source-derived colours appear as transparent watercolour accents, while natural near-white paper carries air and pause. Typography follows the structure and whitespace like an art-directed architectural travel sketchbook or independent visual journal.
+**Panel 080** uses selective memory to extract the subject, structure, pose, narrative relationship, and one subtle metaphor that naturally comes from the photograph. It rebuilds them through flexible organic geometry, unoutlined flat colour fields, digital gouache or crayon, and granular texture. Sage and olive establish a botanical colour base, small warm accents brighten the emotion, and broad whitespace carries air, time, distance, and silence.
 
 ### Best for
 
-- architecture, travel, and field observation built from forceful straight lines, turns, planes, and proportions;
-- an alive unfinished quality formed by exploratory repeats, breaks, offsets, and unresolved edges;
-- colour that comes from the photograph but remains sparse, transparent, and subordinate to ink and paper;
+- turning emotion into visible compositional relationships through scale, distance, positive–negative form, and whitespace;
+- distilling a natural metaphor from plants, paths, repeated forms, occlusion, or small distant objects without imposing a new story;
+- digital gouache and botanical colour shaped by organic geometry, grain, sage green, and restrained warm accents;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -58,25 +65,25 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | An observation page combining architectural-sketch order, field-drawing looseness, and independent-editorial typography |
-| **Recognisable signature** | A strong straight-line scaffold checked by free curves, with sparse transparent wash floating in broad near-white paper |
-| **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
+| **What you get** | A quiet, gentle, life-filled emotional poster with mature composition and an art-publishing sensibility |
+| **Recognisable signature** | Flexible organic colour shapes, granular digital gouache, a low-saturation botanical palette, and broad whitespace that carries narrative |
+| **How it respects the source** | It preserves subject identity and narrative relationship; its metaphor and overall colour temperature come from the photograph rather than an imposed story |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
 ## Transformation logic
 
 ```text
-extract identity, structure, space, action, and narrative relationship → establish a scaffold with long lines, angular turns, and geometric axes → interrupt order with organic curves and searching marks → add sparse transparent washes from recognisable source colours → remove complex background and preserve broad paper white → let fine typography participate along structure lines and open space
+extract identity, structure, pose, narrative relationship, and core emotion → find one subtle metaphor that naturally arises from the source → summarise with flexible organic geometry and unoutlined colour shapes → add digital gouache, crayon, and granular handmade texture → remix source colours through a low-saturation botanical palette → let whitespace carry air, time, and imagination → use sparse type as an emotional footnote
 ```
 
 ## Recognisable finished traits
 
-- From a distance the page has clear geometric order; close up it retains loose uneven searching lines, breaks, and unfinished edges.
-- Architecture and objects favour straight lines, turns, planes, and proportion; people, plants, animals, clouds, and water interrupt them with organic curves.
-- Transparent wash appears only where necessary, with slight overrun, watermarks, grain, and uneven coverage allowed.
-- Off-centre placement, local cropping, and one-sided extension let broad paper white carry sky, air, distance, and pause.
-- Fine editorial type follows perspective lines, axes, subject edges, or whitespace instead of becoming a conventional title-and-body menu.
+- The subject is summarised through flexible organic geometry, broad silhouettes, and unoutlined colour fields, reducing realistic perspective and naturalistic lighting.
+- Digital gouache, crayon traces, and granular noise provide genuine handmade warmth without polished-vector smoothness.
+- Sage and olive lead the palette, supported by creamy yellow, grey-blue, and neutrals, while small coral, apricot, or mustard accents brighten the emotion.
+- The subject may be reduced, offset, cropped, or isolated; whitespace actively carries air, time, distance, silence, and imagination.
+- Metaphor must arise naturally from the photograph; typography remains a light, small, restrained observation or emotional footnote.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-080-prompt.en.md)
 

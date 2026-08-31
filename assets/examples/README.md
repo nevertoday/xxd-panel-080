@@ -9,6 +9,11 @@ This directory contains the reviewed extension samples displayed by all five loc
 
 ## Reviewed extension samples
 
+Source mapping for the regenerated set (randomized group assignment):
+
+- `sample-05`–`sample-08`: `/Users/admin/Downloads/陈翔海报2026-08-26/group_020/077.jpg`, `078.jpg`, `079.png`, `080.jpg` (one source per sample, in filename order).
+- `sample-09`–`sample-12`: `/Users/admin/Downloads/陈翔海报2026-08-26/group_010/037.jpg`, `038.jpg`, `039.png`, `040.jpg` (one source per sample, in filename order).
+
 - `sample-05`–`sample-08`: four 16:9 landscape left–right works (1672×941 PNG); the reality view is on the left and Panel 080's transformed design is on the right.
 - `sample-09`–`sample-12`: four approximately 3:4 portrait top–bottom works (nominally 1086×1448 PNG); the reality view is above and Panel 080's transformed design is below.
 - Each work was generated independently from Panel 080's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.

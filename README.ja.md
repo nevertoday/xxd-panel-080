@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 080 プロジェクトバナー" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 080｜有機的グアッシュの場

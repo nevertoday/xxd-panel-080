@@ -262,7 +262,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
 
-60 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
+80 个 Panel 各自保留独立的原始提示词与审美逻辑。下面连续列出 001–080 的全部项目地址和核心风格特点；当前项目以粗体标出。
 
 | 项目地址 | 风格特点 |
 |---|---|
@@ -339,12 +339,12 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | 柔和粉彩 · 粉蜡笔 · 水溶性色铅笔 · 近白纸面 · 漂浮记忆片段 · 诗性手写 |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | 半透明磨砂视窗 · 区域差异化柔焦 · 极简几何 · 清晰识别轮廓 · 明艳治愈色 · 现代编辑排版 |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | 等距微缩建筑 · 剖切立方体 · 大陆架空间 · 理性脚手架 · 手绘建筑图解 · 白色纹理纸 |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | 标准圆角方形 · 正面伪 3D／2.5D · 原图灵魂提炼 · 连续空间遮挡 · 哑光雕塑感 · 品牌图标提案 |
-| **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 深色蜡笔速写 · 米白手工纸 · 柔和不规则色域 · Risograph 颗粒 · 大面积留白 · 打字机私人注记 |
-| **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | 粗粝深色蜡笔 · 炭笔彩铅 · 明亮马卡龙色块 · 45% 连续留白 · 天然纸面 · 打字机观察注记 |
-| **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | 极简纸雕拼贴 · 清晰剪纸轮廓 · 前后层叠 · 柔和投影 · 人文马卡龙 · 旅行杂志排版 |
-| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | 暖米白棉纸 · 深压凹印 · 凹槽香槟金箔 · 纤细线性标识 · 无墨压痕 · 低调奢华 |
-| **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | 强几何直线 · 自由有机曲线 · 钢笔淡彩 · 未完成感 · 大面积纸白 · 编辑式图文混排 |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | 标准圆角方形 · 正面伪 3D／2.5D · 原图灵魂提炼 · 连续空间遮挡 · 哑光雕塑感 · 品牌图标提案 |
+| [xxd-panel-075](https://github.com/nevertoday/xxd-panel-075) | 深色蜡笔速写 · 米白手工纸 · 柔和不规则色域 · Risograph 颗粒 · 大面积留白 · 打字机私人注记 |
+| [xxd-panel-076](https://github.com/nevertoday/xxd-panel-076) | 粗粝深色蜡笔 · 炭笔彩铅 · 明亮马卡龙色块 · 45% 连续留白 · 天然纸面 · 打字机观察注记 |
+| [xxd-panel-077](https://github.com/nevertoday/xxd-panel-077) | 极简纸雕拼贴 · 清晰剪纸轮廓 · 前后层叠 · 柔和投影 · 人文马卡龙 · 旅行杂志排版 |
+| [xxd-panel-078](https://github.com/nevertoday/xxd-panel-078) | 暖米白棉纸 · 深压凹印 · 凹槽香槟金箔 · 纤细线性标识 · 无墨压痕 · 低调奢华 |
+| [xxd-panel-079](https://github.com/nevertoday/xxd-panel-079) | 强几何直线 · 自由有机曲线 · 钢笔淡彩 · 未完成感 · 大面积纸白 · 编辑式图文混排 |
 | **[xxd-panel-080](https://github.com/nevertoday/xxd-panel-080)** | 柔性有机几何 · 数字水粉蜡笔 · 颗粒肌理 · 植物系配色 · 自然隐喻 · 情绪留白 |
 <!-- xxd-panel-catalog:end -->
 

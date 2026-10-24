@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-080
-description: "Create XXD Panel 080 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-080 or requests the exact Panel 080 style."
+description: "XXD Panel 080｜Organic Gouache Field: rebuilds the subject, structure and mood of a photo as a selective memory with one subtle metaphor taken from the photo itself — soft organic geometry, large silhouettes and flat colour blocks without outlines, digital gouache and crayon brush texture with grain, very few hand-drawn lines, weakened perspective and no realistic lighting — in a low-saturation botanical palette led by sage and olive green with cream yellow, grey blue and soft neutrals, lit by small touches of coral pink, apricot or mustard; the subject is small, off-centre or isolated in generous emotional whitespace, with a few light, small words like a quiet footnote. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-080 or asks for digital gouache, sage-green botanical palette or quiet organic-shape mood illustration from a photo."
 ---
 
 # XXD Panel 080

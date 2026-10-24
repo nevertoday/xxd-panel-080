@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 080｜Organic Gouache Field: rebuilds the subject, structure and mood of a photo as a selective memory with one subtle metaphor taken from the photo itself — soft organic geometry, large silhouettes and flat colour blocks without outlines, digital gouache and crayon brush texture with grain, very few hand-drawn lines, weakened perspective and no realistic lighting — in a low-saturation botanical palette led by sage and olive green with cream yellow, grey blue and soft neutrals, lit by small touches of coral pink, apricot or mustard; the subject is small, off-centre or isolated in generous emotional whitespace, with a few light, small words like a quiet footnote. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-080 or asks for digital gouache, sage-green botanical palette or quiet organic-shape mood illustration from a photo.",
+  "short_description": "有机水粉场：用柔性有机形、颗粒数字水粉和鼠尾草绿基调，把照片的情绪和隐喻放进大片留白",
+  "zh-CN": {
+    "name": "有机水粉场",
+    "tagline": "用柔软的有机形状和植物色水粉，把照片的情绪和一个小小隐喻放进大片留白里。",
+    "look": "照片只留下最能代表它情绪的少量线索：主体、环境和一个源自照片的小隐喻，比如一条往前的路、远处的小物、生长的植物。它们被画成柔软的有机几何和大块剪影，扁平色块没有描边，带数字水粉和蜡笔的颗粒笔触，只偶尔有几根手绘线，透视和光影都被弱化。颜色以鼠尾草绿、橄榄绿为基调，配奶油黄、灰蓝和柔和中性色，再用一点珊瑚粉、杏橙或芥末黄点亮。主体常常缩小、偏置或孤立在大片留白中，旁边一两句轻小的文字像情绪注脚。",
+    "traits": ["柔性有机几何", "数字水粉与蜡笔", "颗粒肌理", "低饱和植物色", "自然隐喻", "情绪留白"],
+    "good": [
+      "带情绪的孤立主体：田野里的一个人、海边的一把椅子、窗外的一棵树",
+      "自带隐喻的画面：一条延伸的小路、远处的房子、墙缝里长出的植物",
+      "安静的自然或生活场景：清晨的公园、雨后的阳台、湖边散步"
+    ],
+    "poor": [
+      "需要清晰细节和准确透视的图：建筑结构、产品、机械",
+      "色彩鲜艳热闹、想保留原有高饱和配色的照片：游乐园、霓虹街、节日",
+      "想要满版植物装饰、卡通、光滑矢量或 3D 渲染的需求"
+    ]
+  },
+  "en": {
+    "name": "Organic Gouache Field",
+    "tagline": "Places the mood of your photo and one small metaphor into wide whitespace, in soft organic shapes and botanical-coloured gouache.",
+    "look": "Only a few clues that carry the photo's mood are kept: the subject, the setting and one small metaphor found in the photo, such as a path leading on, a small thing far away or a growing plant. They are painted as soft organic geometry and large silhouettes in flat, outline-free colour blocks with grainy digital gouache and crayon strokes and only the occasional hand-drawn line, with perspective and lighting played down. The palette is led by sage and olive green with cream yellow, grey blue and soft neutrals, lit by touches of coral pink, apricot or mustard. The subject is often small, off-centre or alone in a wide blank, with one or two light, small lines of text like an emotional footnote.",
+    "traits": ["Soft organic geometry", "Digital gouache and crayon", "Grain texture", "Muted botanical colour", "Natural metaphor", "Emotional whitespace"],
+    "good": [
+      "Lone subjects with a feeling: one person in a field, a chair by the sea, a tree outside a window",
+      "Scenes with a built-in metaphor: a path stretching away, a distant house, a plant growing from a crack in a wall",
+      "Quiet nature or daily scenes: a park at dawn, a balcony after rain, a walk by a lake"
+    ],
+    "poor": [
+      "Images that need clear detail and exact perspective: building structures, products, machines",
+      "Bright, busy photos where you want to keep their saturated colours: amusement parks, neon streets, festivals",
+      "Requests for wall-to-wall plant decoration, cartoons, smooth vectors or 3D rendering"
+    ]
+  },
+  "ja": {
+    "name": "有機的グアッシュの場",
+    "tagline": "やわらかな有機的な形と植物色のグアッシュで、写真の気分と小さな比喩を広い余白の中に置きます。",
+    "look": "写真からは、その気分をいちばん伝える少しの手がかりだけを残します。主役、環境、そして写真の中から見つけた小さな比喩、たとえば先へ続く道、遠くの小さなもの、伸びていく植物です。それらはやわらかな有機的な幾何学と大きなシルエットで描かれ、輪郭線のない平らな色面に、粒子のあるデジタルグアッシュとクレヨンの筆致が乗り、手描きの線はときどき入るだけで、遠近や光の表現は抑えられます。色はセージグリーンとオリーブグリーンを基調に、クリームイエロー、グレーブルー、やわらかな中間色を合わせ、コーラルピンク、アプリコット、マスタードを少しだけ灯します。主役は小さく、片側に寄せられ、あるいは広い余白に一つだけ置かれ、そばに気持ちの注釈のような軽く小さな文字が一、二行添えられます。",
+    "traits": ["やわらかな有機的幾何学", "デジタルグアッシュとクレヨン", "粒子の質感", "低彩度の植物色", "自然の比喩", "気持ちの余白"],
+    "good": [
+      "気分を感じさせる一つきりの主役：野原の一人、海辺の椅子、窓の外の一本の木",
+      "比喩を含んだ場面：遠くへ延びる小道、遠くの家、壁の割れ目から生える植物",
+      "静かな自然や暮らしの場面：朝の公園、雨上がりのベランダ、湖畔の散歩"
+    ],
+    "poor": [
+      "はっきりした細部や正確な遠近が必要な画像：建物の構造、商品、機械",
+      "鮮やかでにぎやかな色をそのまま残したい写真：遊園地、ネオン街、お祭り",
+      "植物で埋め尽くした装飾、漫画、なめらかなベクター、3D レンダリングを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "유기적 과슈의 장",
+    "tagline": "부드러운 유기적 형태와 식물색 과슈로 사진의 감정과 작은 은유 하나를 넓은 여백 속에 놓습니다.",
+    "look": "사진에서 그 감정을 가장 잘 전하는 몇 가지 단서만 남깁니다. 주인공, 환경, 그리고 사진 속에서 찾은 작은 은유, 예를 들어 앞으로 이어지는 길, 멀리 있는 작은 것, 자라나는 식물 같은 것입니다. 이들은 부드러운 유기적 기하와 큰 실루엣으로, 윤곽선 없는 평면 색면에 입자감 있는 디지털 과슈와 크레용 붓질로 그려지며, 손그림 선은 가끔만 들어가고 원근과 빛 표현은 약하게 둡니다. 색은 세이지 그린과 올리브 그린을 바탕으로 크림 옐로, 회청색, 부드러운 중간색을 더하고, 코랄 핑크, 살구 오렌지, 머스터드를 조금만 밝혀 줍니다. 주인공은 작게, 한쪽으로 치우치거나 넓은 여백 속에 홀로 놓이고, 옆에 감정의 각주 같은 가볍고 작은 글 한두 줄이 붙습니다.",
+    "traits": ["부드러운 유기적 기하", "디지털 과슈와 크레용", "입자 질감", "저채도 식물색", "자연의 은유", "감정의 여백"],
+    "good": [
+      "감정이 느껴지는 홀로 선 주인공: 들판의 한 사람, 바닷가 의자, 창밖의 나무 한 그루",
+      "은유를 품은 장면: 멀리 이어지는 오솔길, 먼 곳의 집, 벽 틈에서 자라는 식물",
+      "조용한 자연이나 일상 장면: 이른 아침 공원, 비 갠 뒤 발코니, 호숫가 산책"
+    ],
+    "poor": [
+      "분명한 세부와 정확한 원근이 필요한 이미지: 건물 구조, 제품, 기계",
+      "화려하고 북적이는 색을 그대로 지키고 싶은 사진: 놀이공원, 네온 거리, 축제",
+      "식물로 가득 채운 장식, 만화, 매끈한 벡터, 3D 렌더링을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقل الغواش العضوي",
+    "tagline": "يضع مزاج صورتك واستعارة صغيرة منها في فراغ واسع، بأشكال عضوية ناعمة وغواش بألوان نباتية.",
+    "look": "لا يُبقى من الصورة إلا بضع إشارات تحمل مزاجها: العنصر الرئيسي والمكان واستعارة صغيرة مستمدة من الصورة نفسها، كطريق يمتد إلى الأمام أو شيء صغير بعيد أو نبتة تنمو. تُرسم كلها بهندسة عضوية ناعمة وظلال كبيرة في مساحات لونية مسطّحة بلا خطوط محيطية، مع ضربات غواش رقمي وأقلام شمع محبّبة، وخط يدوي عابر بين حين وآخر، ويُخفَّف المنظور والإضاءة. تقود الألوانَ درجاتُ أخضر المريمية والزيتوني، مع أصفر كريمي وأزرق رمادي ودرجات محايدة ناعمة، وتضيئها لمسات صغيرة من الوردي المرجاني أو المشمشي أو الخردلي. وكثيراً ما يكون العنصر صغيراً أو منحازاً إلى جانب أو وحيداً في فراغ واسع، ويرافقه سطر أو سطران من نص خفيف صغير كحاشية شعورية.",
+    "traits": ["هندسة عضوية ناعمة", "غواش رقمي وأقلام شمع", "ملمس محبّب", "ألوان نباتية خافتة", "استعارة طبيعية", "فراغ عاطفي"],
+    "good": [
+      "عناصر وحيدة تحمل شعوراً: شخص واحد في حقل، كرسي قرب البحر، شجرة خارج نافذة",
+      "مشاهد فيها استعارة جاهزة: درب يمتد بعيداً، بيت في الأفق، نبتة تنمو من شقّ في جدار",
+      "مشاهد طبيعية أو يومية هادئة: حديقة عند الفجر، شرفة بعد المطر، تمشية قرب بحيرة"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل واضحة ومنظور دقيق: بنى المباني، المنتجات، الآلات",
+      "صور زاهية صاخبة تريد الإبقاء على ألوانها المشبعة: مدن الملاهي، شوارع النيون، المهرجانات",
+      "طلب زخرفة نباتية تملأ الصورة أو رسوم كرتونية أو رسم متجهي أملس أو تصيير ثلاثي الأبعاد"
+    ]
+  }
+}
